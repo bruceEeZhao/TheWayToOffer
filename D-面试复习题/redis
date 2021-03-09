@@ -1,0 +1,9 @@
+redis使用方式、redis数据结构类型、redis的bitmap结构、redis持久化、redis的淘汰机制、redis的缓存击穿。
+
+
+1. 基本数据类型
+2. redis中hash结构字段能设置过期时间吗？
+3. ZSet的使用场景
+4. ZSet的底层实现
+5. redis里的缓存驱逐策略
+6. 算法：缓存驱逐算法 LRU实现
